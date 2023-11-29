@@ -99,7 +99,11 @@ body {
   box-shadow: 0 0 5px #575757;
   background-color: #00000080;
 }
-
+.bi-share {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
 
 
 /* CONTAINER LIVE */
@@ -110,7 +114,7 @@ body {
   outline-style: solid;
   outline-width: 2px;
   outline-color: var(--colorfour);
-  border: 3px solid transparent;
+  border: 4px solid transparent;
   box-shadow: 0 0 7px var(--colorfour);
 }
 .containerLive .yourName {
